@@ -61,37 +61,6 @@ pip install -r requirements.txt
 
 > ⚠️ Pour PyTorch avec support CUDA, visiter [pytorch.org](https://pytorch.org/get-started/locally/) et adapter la commande à ta version de CUDA.
 
-### 4. Télécharger le dataset
-
-Télécharger le dataset depuis la page Zindi et le placer dans le dossier `/data` :
-
-```
-📦 barbados-traffic-challenge
- ┣ 📁 data/
- ┃  ┣ Train.csv
- ┃  ┣ SampleSubmission.csv
- ┃  ┗ 📁 videos/
-```
-
-Puis adapter le chemin dans les notebooks :
-
-```python
-DATASET_PATH = "./data"   # à la place de "/kaggle/input/reencoded-barbados-traffic"
-```
-
-### 5. Lancer les notebooks dans l'ordre
-
-```bash
-jupyter notebook
-```
-
-| Ordre | Notebook | Description |
-|-------|----------|-------------|
-| 1️⃣ | `eda_barbados.ipynb` | Analyse exploratoire |
-| 2️⃣ | `005-feature-extraction-torch.ipynb` | Extraction d'embeddings vidéo |
-| 3️⃣ | `006-transfert-learning.ipynb` | Entraînement du modèle |
-
----
 
 ### 💡 Alternative — Kaggle (GPU gratuit)
 
