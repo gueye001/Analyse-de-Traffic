@@ -1,10 +1,5 @@
-# 🚦 Barbados Traffic Analysis Challenge — Zindi
+# 🚦 Analyse de Traffic 
 
-**Auteur :** Khadim GUEYE  
-**Formation :** Master Méthodes Stochastiques et Informatiques pour la Décision (MSID)  
-**Université :** Université de Pau et des Pays de l'Adour (UPPA)  
-**Compétition :** [Zindi — Barbados Traffic Analysis Challenge](https://zindi.africa/competitions/barbados-traffic-analysis-challenge)  
-**Année :** 2024
 
 ---
 
